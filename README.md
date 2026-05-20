@@ -61,3 +61,9 @@ Initially, typing inside the picker had a noticeable `0.2s` lag.
 
 ### 3. Absolute Zero Overhead
 We wanted this app to be completely invisible to your CPU. The final architecture relies 100% on Apple's CoreFoundation event-driven systems. There are absolutely **zero background loops** running. The app uses `0.0% CPU` and only wakes up exactly when a keystroke is fired.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+Created by Rohil
