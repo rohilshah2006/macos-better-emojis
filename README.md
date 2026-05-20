@@ -17,7 +17,9 @@ A lightning-fast, zero-overhead, global emoji picker for macOS that brings the D
 ## Installation & Setup
 
 1. **Download the App:** 
-   Move `EmojiPicker.app` into your `/Applications` folder.
+   - Go to the [Releases page](https://github.com/rohilshah2006/macos-better-emojis/releases) and download the latest `EmojiPicker-macOS.zip` file.
+   - Unzip the downloaded file.
+   - Move the extracted `EmojiPicker.app` into your `/Applications` folder.
 
 2. **Launch the App:**
    Double-click `EmojiPicker` in your Applications folder to launch it. A smiling face icon 🟢 will appear in your Mac's menu bar at the top right.
