@@ -8,6 +8,11 @@ A lightning-fast, zero-overhead, global emoji picker for macOS that brings the D
 - **Zero CPU Overhead:** Built entirely on macOS `CoreFoundation` Event Taps. The app uses 0% CPU while idle and only wakes up when you type.
 - **Smart App Exclusion:** Automatically disables itself in apps that already have their own emoji pickers (like Discord and Slack) to prevent overlapping menus.
 
+## Tech Stack
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
 ## Installation & Setup
 
 1. **Download the App:** 
