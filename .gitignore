@@ -1,0 +1,8 @@
+# macOS specific
+.DS_Store
+*.app
+EmojiPicker
+
+# Icons generated temporarily
+*.iconset
+*.icns
